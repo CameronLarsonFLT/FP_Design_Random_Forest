@@ -1,5 +1,7 @@
 # Random Forest Fluorescent Protein Design
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CameronLarsonFLT/FP_Design_Random_Forest/blob/main/FP_Regressor_RF.ipynb)
+
 Train and interrogate **Random Forest regressors** on FPbase fluorescent protein sequences to predict photophysical properties and perform **greedy in-silico sequence design**.
 
 This workflow supports:
@@ -28,7 +30,7 @@ Designed for fast iteration in **Google Colab** or local Python.
   - `stokes_shift`
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CameronLarsonFLT/FP_Design_Random_Forest/blob/main/FP_Regressor_RF.ipynb)
+
 
 ## Notes
 - FPbase API: https://www.fpbase.org/api/proteins/
